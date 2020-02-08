@@ -1,3 +1,6 @@
+$ git add .
+$ git commit -m "Add existing file"
+
 * {
   margin: 0;
   padding: 0;
