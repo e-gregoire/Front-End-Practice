@@ -1,13 +1,12 @@
-$ git add . 
-$ git commit -m "Add existing file"
-<!DOCTYPE html>
+
+<!DOCTYPE html $ git add . $ git commit -m "Add existing file" $ git push origin your-branch>
   <html>
       <div class="top">
     <header><h1> Poèmes de Russie <h1></header>
         <h3> 7 février 2020, créé par <em>Élisabeth Grégoire</em> </h3>
       <link href="2ecss.css" type="text/css" rel="stylesheet">
         
-     <nav>     
+ <nav>     
       <ul>
         <li>
             <a href="#dragonfly">The Dragonfly & the Ants </a>
