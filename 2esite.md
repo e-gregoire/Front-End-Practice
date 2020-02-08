@@ -1,3 +1,5 @@
+$ git add . 
+$ git commit -m "Add existing file"
 <!DOCTYPE html>
   <html>
       <div class="top">
